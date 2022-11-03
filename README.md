@@ -1,7 +1,5 @@
-# M3OEP-gbturner
-Author: Gavin Turner <gbturner@uvm.edu>
-Course: CS120
-Date: 10/27/2022
+# MOSFET Analyzer
+Author: Gavin Turner <gbturner556@gmail.com>
 
 ## Summary
 This is my Open Ended Project for Module 1. I'm an electrical engineering major. 
