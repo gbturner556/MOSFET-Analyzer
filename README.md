@@ -2,9 +2,9 @@
 Author: Gavin Turner <gbturner556@gmail.com>
 
 ## Summary
-This is my Open Ended Project for Module 1. I'm an electrical engineering major. 
+I'm an electrical engineering major with a minor in computer science. 
 Programming and computer science concepts are used heavily in the EE field especially 
-for simulation software. One of the most widely used categories of software used in the 
+for simulation software. One of the most widely used categories of software in the 
 EE field is **SPICE** (**S**imulation **P**rogram with **I**ntegrated **C**ircuit 
 **E**mphasis). Typical SPICE applications allow you to simulate complex circuits before
 spending the large amount of resources required to make an integrated circuit. Many 
@@ -17,13 +17,9 @@ electrical devices).
 For more information regarding MOSFETs and there function see the following link
 <https://en.wikipedia.org/wiki/MOSFET>
 
-## Module 3 Concepts
-The following Module 3 concepts were used in this program
-- Integrating another programming language into C++ code
-- Passing data by command line arguments
-
 ## Software Requirements
-This program requires the following software
+This program requires the following software:
+
 - Python 3
   - Pandas package
   - sys package
@@ -62,7 +58,6 @@ option must be selected from the main menu.
 There are currently no known bugs
 
 ## Future Work
-This program is currently functional and realistically useful for modeling a MOSFET device.
 Currently, the program does not allow the user to change the increments and ranges of vdd 
 and vgs. The NFET class does all for this through getters and setters so this addition is
 not far from reach. 
@@ -83,17 +78,6 @@ was used to iterate through all files in a directory
 [https://stackoverflow.com/questions/5899497/how-can-i-check-the-extension-of-a-file](https://stackoverflow.com/questions/5899497/how-can-i-check-the-extension-of-a-file)
 was used to extract the extension of a file
 
-## Predicted Grade
-
-| Criteria                          |  Score |
-|:----------------------------------|-------:|
-| Main Program                      |     40 |
-| Concepts: Other Language (python) |     20 |
-| Concepts: CLI                     |      2 |
-| Style and Documentations          |     -0 |
-| Video                             |     -0 |
-| Lifespan                          |     -0 |
-| ***Total***                       | **62** |
 
 ## Demonstration Video:
 <https://uvmoffice-my.sharepoint.com/:v:/g/personal/gbturner_uvm_edu/EcR4NYAhnvtCs_V2d1nWiPYBm9Otoiv3dXr18Ipjv14lyw>
