@@ -53,7 +53,7 @@ option must be selected from the main menu.
 
 #### Example of Default Characteristic Curves
 
-![Default MOSFET](../../Users/gbtur/Downloads/Figure_1.png)
+![Default MOSFET](default_MOSFET_curves.png)
 ## Known Bugs
 There are currently no known bugs
 
