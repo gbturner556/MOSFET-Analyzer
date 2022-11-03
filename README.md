@@ -33,7 +33,7 @@ This program requires the following software
 
 ## Running the Program
 The program will run starting from C++. The program will prompt the user with 3 options:
-(a) Characterize and new MOSFET, (b) Plot existing MOSFET data, and (c) Exit.
+(a) Characterize a new MOSFET, (b) Plot existing MOSFET data, and (c) Exit.
 
 ##### Option (a):
 After selecting this option the program will prompt you for a name for the device.
